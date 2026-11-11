@@ -1,3 +1,9 @@
+---
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=AAF731&center=true&width=435&lines=Fake+it;Till+you+make+it.;Wanna+try+again%3F)](https://git.io/typing-svg)
+
+---
+
 # Hello there 👋
 
 <!--
