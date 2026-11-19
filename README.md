@@ -6,6 +6,26 @@
 
 ---
 
+###
+
+<h1 align="left">About me</h1>
+
+<div>
+  <img align="right" height="200" src="[https://giphy.com](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHY1b3g4bTZoMzhic3U5ZXB4djF0MzJmMnFrZ29jM2J0M2FvZGEzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZRNGgPck6CSobIoVVI/giphy.gif)" />
+  
+  <p align="left">
+    Kurang tahu juga sih, ini hidup aja modal bismillah
+  </p>
+</div>
+
+<br clear="both" />
+
+
+---
+
+###
+
+
 <br clear="both">
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
@@ -18,19 +38,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
-
----
-
-<h1 data-importer="text" align="left">About me</h1>
-
-
-<img data-importer="image" align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHY1b3g4bTZoMzhic3U5ZXB4djF0MzJmMnFrZ29jM2J0M2FvZGEzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZRNGgPck6CSobIoVVI/giphy.gif"  />
-
-###
-
-<p data-importer="text" align="left">Kurang tahu juga sih, ini hidup aja modal bismillah</p>
-
----
 <!--# Hello there 👋-->
 
 <!--
