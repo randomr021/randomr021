@@ -21,19 +21,16 @@
 
 ---
 
-<br clear="both">
+<h1 data-importer="text" align="left">About me</h1>
+
 
 <img data-importer="image" align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHY1b3g4bTZoMzhic3U5ZXB4djF0MzJmMnFrZ29jM2J0M2FvZGEzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZRNGgPck6CSobIoVVI/giphy.gif"  />
 
 ###
 
-<h1 data-importer="text" align="left">About me</h1>
-
-###
-
 <p data-importer="text" align="left">Kurang tahu juga sih, ini hidup aja modal bismillah</p>
 
-###
+---
 <!--# Hello there 👋-->
 
 <!--
