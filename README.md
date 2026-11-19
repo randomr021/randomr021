@@ -8,17 +8,18 @@
 
 ###
 
-<h1 align="left">About me</h1>
+<table>
+  <tr>
+    <td valign="top" width="1000">
+      <h1 align="left">About me</h1>
+      <p align="left">Kurang tahu juga sih, ini hidup aja modal bismillah</p>
+    </td>
+    <td align="right" valign="middle">
+      <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHY1b3g4bTZoMzhic3U5ZXB4djF0MzJmMnFrZ29jM2J0M2FvZGEzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZRNGgPck6CSobIoVVI/giphy.gif" />
+    </td>
+  </tr>
+</table>
 
-<div>
-  <img align="right" height="200" src="[https://giphy.com](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHY1b3g4bTZoMzhic3U5ZXB4djF0MzJmMnFrZ29jM2J0M2FvZGEzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZRNGgPck6CSobIoVVI/giphy.gif)" />
-  
-  <p align="left">
-    Kurang tahu juga sih, ini hidup aja modal bismillah
-  </p>
-</div>
-
-<br clear="both" />
 
 
 ---
