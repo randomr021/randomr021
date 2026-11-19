@@ -4,8 +4,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&duration=1500&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=535&height=115&lines=By+opening+GitHub;Makes+me+filled+with;DETERMINATION%E2%9D%A4%EF%B8%8E" alt="Typing SVG" /></a>
 </p>
 
----
-
 ###
 
 <table>
@@ -14,15 +12,11 @@
       <h1 align="left">About me</h1>
       <p align="left">Kurang tahu juga sih, ini hidup aja modal bismillah</p>
     </td>
-    <td align="right" valign="middle">
-      <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHY1b3g4bTZoMzhic3U5ZXB4djF0MzJmMnFrZ29jM2J0M2FvZGEzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZRNGgPck6CSobIoVVI/giphy.gif" />
+    <td width="25%" align="right">
+      <img data-importer="image" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHY1b3g4bTZoMzhic3U5ZXB4djF0MzJmMnFrZ29jM2J0M2FvZGEzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZRNGgPck6CSobIoVVI/giphy.gif" />
     </td>
   </tr>
 </table>
-
-
-
----
 
 ###
 
