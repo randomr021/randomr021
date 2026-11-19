@@ -9,7 +9,7 @@
 <table>
   <tr>
     <td valign="top" width="1000">
-      <h1 align="left">About me</h1>
+      <h1 align="left">👤 About me</h1>
       <p align="left">Kurang tahu juga sih, ini hidup aja modal bismillah</p>
     </td>
     <td width="25%" align="right">
@@ -20,6 +20,7 @@
 
 ###
 
+<h1 align="left">⚙️ Hal yang kubisa</h1>
 
 <br clear="both">
 <div data-importer="techs" align="center">
